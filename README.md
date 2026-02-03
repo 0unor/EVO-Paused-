@@ -88,8 +88,7 @@ Ez a projekt nyílt forráskódú, a licenc részletei a LICENSE fájlban talál
 
 ## Kapcsolat
 
-Készítők: Deák Hunor, Tóth Miklós Milán
-Mentorunk:Zsigó Zsolt  
+Készítő: Deák Hunor
 Kérdés vagy észrevétel: [deakhunor14@gmail.com]
 
 ---
